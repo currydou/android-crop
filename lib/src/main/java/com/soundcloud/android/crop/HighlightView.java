@@ -40,7 +40,6 @@ import android.view.View;
  * space to screen space.
  */
 class HighlightView {
-
     public static final int GROW_NONE        = (1 << 0);
     public static final int GROW_LEFT_EDGE   = (1 << 1);
     public static final int GROW_RIGHT_EDGE  = (1 << 2);

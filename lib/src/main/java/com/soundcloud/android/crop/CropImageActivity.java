@@ -203,6 +203,7 @@ public class CropImageActivity extends MonitoredActivity {
                                     imageView.center();
                                 }
                                 latch.countDown();
+                                
                             }
                         });
                         try {
